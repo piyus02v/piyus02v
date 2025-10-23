@@ -1,10 +1,10 @@
 ## Hi there 👋 I am Piyush Vaish
-#🔭 I’m currently working as Software engineer.
-#🌱 I’m currently learning Golang,React and DevOps
-#👯 I’m looking to collaborate on Fullstack opportunities..preferable with MERN or Golang(beginner)
-#📫 How to reach me:
-#    LinkedIn -www.linkedin.com/in/piyush-vaish-a4182a223
-#   Gmail - piyush02v@gmail.com
+-🔭 I’m currently working as Software engineer.
+-🌱 I’m currently learning Golang,React and DevOps
+-👯 I’m looking to collaborate on Fullstack opportunities..preferable with MERN or Golang(beginner)
+-📫 How to reach me:
+- LinkedIn -www.linkedin.com/in/piyush-vaish-a4182a223
+- Gmail - piyush02v@gmail.com
     
 
 <!--
